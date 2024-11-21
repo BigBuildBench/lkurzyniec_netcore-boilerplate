@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RunSettingsFilePath>$(MSBuildProjectDirectory)\HappyCode.NetCoreBoilerplate.Core.UnitTests.runsettings</RunSettingsFilePath>
+  </PropertyGroup>
+</Project>
